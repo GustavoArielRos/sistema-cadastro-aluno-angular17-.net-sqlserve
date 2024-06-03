@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|c:\\users\\gironpc\\documents\\github\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|solutionrelative:sistemacadastro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|c:\\users\\gironpc\\documents\\github\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|solutionrelative:sistemacadastro\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|c:\\users\\gironpc\\documents\\github\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|solutionrelative:sistemacadastro\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|c:\\users\\gironpc\\documents\\github\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|solutionrelative:sistemacadastro\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|c:\\users\\gironpc\\documents\\github\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|solutionrelative:sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|c:\\users\\gironpc\\documents\\github\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\sistemacadastro.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|solutionrelative:sistemacadastro\\sistemacadastro.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|c:\\users\\gironpc\\documents\\github\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C66230B0-20DE-4F32-9BC2-76DC14EE2D7E}|sistemacadastro\\sistemacadastro.csproj|solutionrelative:sistemacadastro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "sistemacadastro\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "sistemacadastro\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:57:00.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\appsettings.json",
+              "RelativeDocumentMoniker": "sistemacadastro\\appsettings.json",
+              "ToolTip": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\appsettings.json",
+              "RelativeToolTip": "sistemacadastro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T19:56:30.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "sistemacadastro\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "sistemacadastro\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:54:27.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Program.cs",
+              "RelativeDocumentMoniker": "sistemacadastro\\Program.cs",
+              "ToolTip": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Program.cs",
+              "RelativeToolTip": "sistemacadastro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T19:40:42.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "sistemacadastro\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "sistemacadastro\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T19:38:18.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "sistemacadastro\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\appsettings.Development.json",
+              "RelativeToolTip": "sistemacadastro\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T21:50:08.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sistemacadastro.http",
+              "DocumentMoniker": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\sistemacadastro.http",
+              "RelativeDocumentMoniker": "sistemacadastro\\sistemacadastro.http",
+              "ToolTip": "C:\\Users\\gironpc\\Documents\\GitHub\\sistema-cadastro-aluno-angular17-.net-sqlserve\\backend\\sistemacadastro\\sistemacadastro\\sistemacadastro.http",
+              "RelativeToolTip": "sistemacadastro\\sistemacadastro.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-02T21:50:21.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@sistemacadastro_HostAddress = http://localhost:5057
+
+GET {{sistemacadastro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
